@@ -1,0 +1,22 @@
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.exe.config
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.exe
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.pdb
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csprojAssemblyReference.cache
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.Form1.resources
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.Properties.Resources.resources
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csproj.GenerateResource.cache
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.exe
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.pdb
+C:\Users\tpdlf\source\repos\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.result.resources
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.exe.config
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.exe
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\bin\Debug\Sosil_FinalExam.pdb
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csprojAssemblyReference.cache
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.Form1.resources
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.Properties.Resources.resources
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.Result.resources
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csproj.GenerateResource.cache
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.exe
+C:\Users\tpdlf\OneDrive\학습\3학년 1학기 (2020년)\응용소프트웨어실습\과제\[FE]2015726012_최세일\Sosil_FinalExam\Sosil_FinalExam\obj\Debug\Sosil_FinalExam.pdb
