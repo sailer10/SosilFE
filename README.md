@@ -1,7 +1,7 @@
 # SosilFE
 3-1 응용소프트웨어실습 최종과제. 던전 탈출 Mud 게임
 
-* Form1.cs
+* Sosil_FinalExam \ Sosil_FinalExam \ Form1.cs
 기능: 메인 로직 담당
 
 * 실행 화면
