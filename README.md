@@ -26,4 +26,5 @@
 
 ### 결과 화면 (modal)
 ![image](https://github.com/sailer10/SosilFE/assets/80940663/e74fe329-f30a-49ab-b682-0862492100bc)
+&nbsp; &nbsp; 
 ![image](https://github.com/sailer10/SosilFE/assets/80940663/20efa154-1401-459c-a780-8a9339708b4b)
